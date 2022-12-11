@@ -91,7 +91,7 @@ export default function Home() {
       </Row>
       <Grid.Container gap={2} justify="center">
       <Grid xs={6}>
-      <MockItem years="2016.08" badges="0" text="Built and design architecture web app service and help customer service in Prachakij motorsales(dealer Isuzu) the web app use multi technology i meet the team and design service and choose tool for built web app all stack (2016) Prachakij" > </MockItem>
+      <MockItem years="2016.08" badges="0" text="Built and design architecture web app service and help customer service in Prachakij motorsales(dealer Isuzu) the web app use multi technology i meet the team and design service and choose tool for built web app all stack" > </MockItem>
 
       </Grid>
       <Grid xs={6}>

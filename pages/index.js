@@ -64,7 +64,7 @@ export default function Home() {
       />
     <Card isHoverable variant="bordered" css={{ mw: "400px" }}>
       <Card.Body>
-        <Text>I'm Prapat Polchan, Fullstack developer and Web3 (EVM, Solidity) developer include Hosting setup and Serverless</Text>
+        <Text>My name is Prapat Polchan, Fullstack developer and Web3 (EVM, Solidity) developer include Hosting setup and Serverless</Text>
         <Spacer/>
         English Level
         <Text>

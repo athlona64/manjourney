@@ -64,7 +64,7 @@ export default function Home() {
       />
     <Card isHoverable variant="bordered" css={{ mw: "400px" }}>
       <Card.Body>
-        <Text>My name is Prapat Polchan, Fullstack developer and Web3 (EVM, Solidity) developer include Hosting setup and Serverless</Text>
+        <Text>Hi there! My name is Prapat Polchan and I am a full-stack developer and Web3 (EVM, Solidity) developer. I have experience with hosting setup and serverless technologies, and I am passionate about creating high-quality web and blockchain applications. I enjoy learning about new technologies and finding creative solutions to complex problems. I am excited to share my knowledge and skills with others and to continue growing as a developer.</Text>
         <Spacer/>
         English Level
         <Text>
@@ -91,23 +91,33 @@ export default function Home() {
       </Row>
       <Grid.Container gap={2} justify="center">
       <Grid xs={6}>
-      <MockItem years="2016.08" badges="0" text="Built and design architecture web app service and help customer service in Dealer Isuzu the web app use multi technology i meet the team and design service and choose tool for built web app all stack" > </MockItem>
+      <MockItem years="2016.08" badges="0" text="I built and designed the architecture for a web app service for Dealer Isuzu's customer service team. The web app uses multiple technologies, and I worked with the team to design the service and choose the tools to build the app." > </MockItem>
 
       </Grid>
       <Grid xs={6}>
-        <MockItem years="2017.01" badges="1" text="Built and design application with Ionic2 the service use for tracking customer and bussiness service for delivery maintenance car but Ionic2 won't work in longer for tihs product"></MockItem>
+        <MockItem years="2017.01" badges="1" text="I built and designed an application using Ionic2 for tracking customers and business services for car maintenance and delivery. However, Ionic2 is no longer suitable for this product, so I need to find a different technology to use instead. I will continue to research and evaluate my options to find the best solution for this product."></MockItem>
       </Grid>
       <Grid xs={6}>
-        <MockItem years="2017.04" badges="2" text="This year cryptocurrency is coming and i learning about Blockchain and create Validator node, Masternode and set up infrastructure for control update and monitor use many service for traking and maintenance"></MockItem>
+        <MockItem years="2017.04" badges="2" text="This year, cryptocurrencies are gaining popularity, and I am learning about blockchain technology. I have set up a validator node and a masternode, and I am working on the infrastructure to control, update, and monitor the network. I am using various services to track and maintain the network. Overall, I am excited about the potential of cryptocurrencies and blockchain technology, and I am looking forward to continuing to learn and explore these areas in the future."></MockItem>
       </Grid>
       <Grid xs={6}>
-      <MockItem years="2018.01" badges="3" text="After learning about Blockchain i create crypto wallet with Angular2 Framework and Web3 for bussiness for royalty point use ERC20 to issues token and generate seed and encrypt for our customer wallet can send, recieve and built dashboad monitor and control"></MockItem>
+      <MockItem years="2018.01" badges="3" text="After learning about blockchain technology, I created a crypto wallet using the Angular2 framework and Web3. The wallet is intended for use by businesses to manage royalty points using ERC20 tokens. It has features to generate seeds and encrypt the wallet for our customers. The wallet can be used to send and receive tokens, and we have also built a dashboard to monitor and control the wallet."></MockItem>
       </Grid>
       <Grid xs={6}>
-        <MockItem years="2019.01-2021.09" badges="4" text="I start learning and research new technology for new product i must create Androind and iOS application but Ionic2 is not working in longer, i found Flutter is the best for build cross platform performance like native i use flutter and training team in fist time i design crypto wallet and i use NodeJS Express build backend service API multiple function and learning about Sharmir Secret Sharming for keep seed and backup for user in safe this is centralized application but in usually user will be fill password to unlock the seed decryption this wallet can send, recieve, withdraw point to fiat currency but this function only for employee and many service lucky game, lottery game built the bussiness logic in Solidity Smart Contract on Tomochain and i must use Web3 and EtherJS filter log data from smart contract event to store in external blockchain like MySQL, Firestore"></MockItem>
+        <MockItem years="2019.01-2021.09" badges="4" text="
+        I started learning and researching new technologies to create an Android and iOS application for a new product. I found that Ionic2 is no longer suitable for my needs, so I decided to use Flutter instead. Flutter is a great tool for building cross-platform applications that perform like native apps.
+
+        I trained my team on Flutter and we used it to design a crypto wallet. We used NodeJS and Express to build the backend service API, which has multiple functions. We also learned about Shamir Secret Sharing, which we used to keep the seed and backup for user in safe.
+        
+        This is a centralized application, but users need to enter a password to unlock the seed decryption. The wallet can be used to send, receive, and withdraw points to fiat currency, but these functions are only available to employees. We also built several lucky games and lottery games using the business logic in Solidity Smart Contracts on Tomochain.
+        
+        To filter log data from the smart contract events and store it in external blockchains like MySQL and Firestore, we used Web3 and EtherJS.
+        "></MockItem>
       </Grid>
       <Grid xs={6}>
-        <MockItem years="2021.09-2022" badges="5" text="In this year i learning about new technology for Web3 tools i learn The Graph for query data on chain in realtime and i learn IPFS for keep file on decentralized like torrent and i learn oracle service for randomness secure on smart contract and i learn about DeFi Platform like Uniswap2"></MockItem>
+        <MockItem years="2021.09-2022" badges="5" text="This year, I have been learning about new technologies for Web3 tools. I have learned about The Graph, which is a tool for querying data on a blockchain in real-time. I have also learned about IPFS, which is a decentralized file storage system similar to torrents.
+
+In addition, I have learned about oracle services, which provide secure randomness for smart contracts. I am also interested in decentralized finance (DeFi) platforms, such as Uniswap2."></MockItem>
       </Grid>
     </Grid.Container>
 
